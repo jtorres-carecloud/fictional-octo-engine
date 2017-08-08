@@ -14,6 +14,10 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
+Some samples about this demo readme file
+- //Add sample 1 here
+- //Add sample 2 here
+
 ### Installing
 
 A step by step series of examples that tell you have to get a development env running
@@ -35,6 +39,8 @@ End with an example of getting some data out of the system or using it for a lit
 ## Running the tests
 
 Explain how to run the automated tests for this system
+
+For running the automated test please run bin/tests from the root folder of the project.
 
 ### Break down into end to end tests
 
@@ -84,4 +90,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Hat tip to anyone who's code was used
 * Inspiration
+* etc
+* etc
 * etc
